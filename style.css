@@ -6,8 +6,8 @@
 
  /*custom properties, update for my design*/
 :root{
-  --ff-promary: ;
-  --ff-secondary:  ;
+  --ff-promary: 'Playfair Display';
+  --ff-secondary: serif;
 
   --fw-reg: 300;
   --fw-bold:900;
